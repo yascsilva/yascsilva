@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @yascsilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Olá! Sou Yasmin Silva, estudante de Tecnologia da Informação no SENAI. Estou começando na área de TI e aprendendo sobre programação e desenvolvimento de software.
 
-<!---
-yascsilva/yascsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Aprendendo:
+
+Linguagens de Programação
+Desenvolvimento Web
+Banco de Dados
+🌟 Objetivo:
+
+Ganhar experiência prática e contribuir para projetos de código aberto.
+📫 Vamos nos conectar:
+
+LinkedIn (opcional)
